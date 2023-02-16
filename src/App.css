@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.navLink {
+  text-decoration: none;
+  color: white;
+  background: #384b96;
+  display: inline-block;
+  width: 50%;
+  padding: 20px 0;
+  font-size: 30px;
+  letter-spacing: 10px;
+  text-align: center;
+  line-height: 1
+}
